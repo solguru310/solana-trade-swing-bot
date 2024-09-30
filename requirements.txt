@@ -1,0 +1,12 @@
+Flask
+mysql-connector
+requests
+python-dotenv
+pandas
+cfg_load
+krakenex
+pykrakenapi
+pytest
+scipy
+ta_signals~=0.0.58
+pyangles~=0.0.21
